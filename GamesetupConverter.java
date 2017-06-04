@@ -40,7 +40,7 @@ public class GamesetupConverter {
         OptionMenuOne OMO = new OptionMenuOne();
         LoadingDone LD = new LoadingDone();
         MW.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        MW.setSize(600, 445);
+        MW.setSize(600, 500);
         MW.setVisible(true);
         boolean runningMenus = true;
 //        System.out.println(System.getProperty("user.home"));
